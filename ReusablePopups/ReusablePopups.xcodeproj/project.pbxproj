@@ -15,6 +15,7 @@
 		D6C7354D2097C94A00B0C8C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C7354B2097C94A00B0C8C1 /* LaunchScreen.storyboard */; };
 		D6C735582097C94A00B0C8C1 /* ReusablePopupsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C735572097C94A00B0C8C1 /* ReusablePopupsTests.swift */; };
 		D6C735632097C94A00B0C8C1 /* ReusablePopupsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C735622097C94A00B0C8C1 /* ReusablePopupsUITests.swift */; };
+		D6C735712097CDA000B0C8C1 /* DatePopupVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C735702097CDA000B0C8C1 /* DatePopupVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D6C7355E2097C94A00B0C8C1 /* ReusablePopupsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReusablePopupsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6C735622097C94A00B0C8C1 /* ReusablePopupsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusablePopupsUITests.swift; sourceTree = "<group>"; };
 		D6C735642097C94A00B0C8C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6C735702097CDA000B0C8C1 /* DatePopupVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePopupVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D6C735492097C94A00B0C8C1 /* Assets.xcassets */,
 				D6C7354B2097C94A00B0C8C1 /* LaunchScreen.storyboard */,
 				D6C7354E2097C94A00B0C8C1 /* Info.plist */,
+				D6C735702097CDA000B0C8C1 /* DatePopupVC.swift */,
 			);
 			path = ReusablePopups;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				D6C735452097C94A00B0C8C1 /* SecondViewController.swift in Sources */,
 				D6C735412097C94A00B0C8C1 /* AppDelegate.swift in Sources */,
 				D6C735432097C94A00B0C8C1 /* FirstViewController.swift in Sources */,
+				D6C735712097CDA000B0C8C1 /* DatePopupVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
